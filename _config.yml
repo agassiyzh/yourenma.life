@@ -1,5 +1,5 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+title: 有人吗？
+url: "https://pages.yourenma.life"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,7 +10,7 @@ description: Jekyll template with example content for a web agency.
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name:
+  name: zhuohui
   email:
   twitter: # twitter username without the @ symbol
 
